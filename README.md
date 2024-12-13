@@ -1,8 +1,6 @@
-# Biobehavioral-age-gaps
-
 ![](images/header.png)  
 
-# <p align="center">Structural inequality and brain dynamics across diverse samples</p>
+# <p align="center">Biobehavioral-age-gaps</p>
 
 # Table of Contents
 - [Summary](#Summary)
