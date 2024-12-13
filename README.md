@@ -27,13 +27,14 @@ This repository contains the codes and databases necessary for the results of th
 ![Distribution of countries in the study](images/Countries.png)  
 *Figure: Distribution of countries in the study.*
 
-The dataset includes 161,981 participants (45.09% females, mean age=67.06, SD=9.85, age range=51–90) from population-representative aging surveys across Latin America, Europe, Asia, and Africa. Additionally, a longitudinal subsample with two waves is included:  
+The dataset includes 161,981 participants (45.09% females, mean age=67.06, SD=9.85, age range=51–90) from population-representative aging surveys across Latin America, Europe, Asia, and Africa. 
+
+Additionally, a longitudinal subsample with two waves is included:  
 - Wave 1: n=21,631 (42.31% females, mean age=67.18, SD=11.47, range=41–114)  
 - Wave 2: n=21,631 (42.31% females, mean age=71.64, SD=10.47, range=41–117)  
-
 This subsample includes participants from Latin America (Mexico, Costa Rica), Europe (Austria, Belgium, Czech Republic, Denmark, France, Germany, Greece, Italy, Poland, Spain, Sweden, Switzerland), and Asia (China, South Korea).  
 
-Additionally, there is a separate dataset from South Africa with two waves:  
+In addition, there is a separate dataset from South Africa with two waves:  
 - Wave 1: n=5,431 (42.07% females, mean age=45.69, SD=14.15, range=25–90)  
 - Wave 2: n=5,431 (42.07% females, mean age=46.69, SD=14.10, range=26–91)  
 
