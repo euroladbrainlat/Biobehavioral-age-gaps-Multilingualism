@@ -12,27 +12,15 @@
 
 ## Summary
 <a name="Summary"></a>
-This repository contains the codes necessary for the results of the study: "Biobehavioral age gaps, global disparities, and exposomes in accelerated aging: a cross-sectional and longitudinal analysis across 40 countries". Our research bridges critical gaps by analyzing a cohort of 161,981 participants from Latin America, Europe, Asia, and Africa (Figure 1). Using a novel computational approach to aging clocks, we developed a scalable and cost-efficient tool to estimate BAGs. This tool integrates protective factors (e.g., cognitive health, physical activity, education) with risk factors (e.g., cardiometabolic issues, sensory impairments, female sex) (Figure 2A). We explored BAGs in cross-sectional and longitudinal contexts, evaluating their variations by region, income level, and exposomes, including physical (e.g., air quality), social (e.g., inequality), and sociopolitical factors (e.g., democracy, political representation). Validation included epidemiological metrics such as odds ratios, relative risk, and meta-analyses.
+This repository contains the codes necessary for the results of the study: "Biobehavioral age gaps, global disparities, and exposomes in accelerated aging: a cross-sectional and longitudinal analysis across 40 countries". Our research bridges critical gaps by analyzing a cohort of 161,981 participants from Latin America, Europe, Asia, and Africa. Using a novel computational approach to aging clocks, we developed a scalable and cost-efficient tool to estimate BAGs. This tool integrates protective factors (e.g., cognitive health, physical activity, education) with risk factors (e.g., cardiometabolic issues, sensory impairments, female sex). We explored BAGs in cross-sectional and longitudinal contexts, evaluating their variations by region, income level, and exposomes, including physical (e.g., air quality), social (e.g., inequality), and sociopolitical factors (e.g., democracy, political representation). Validation included epidemiological metrics such as odds ratios, relative risk, and meta-analyses.
 
-![Distribution of countries in the study](images/Countries.png)  
-*Figure 1: Distribution of countries.*
-
-**Key insights:**
-- Protective factors were associated with slower aging, while risk factors accelerated aging (Figure 2B).  
-- Africa exhibited the fastest BAG increases, followed by Latin America, Asia, and Europe, with poorer countries showing older BAGs (Figure 2C).  
-- Adverse exposomes—physical, social, and sociopolitical—were major contributors to accelerated aging (Figure 2D).  
-- Longitudinal analyses indicated that higher BAGs at baseline were predictors of future cognitive and functional declines (Figure 2E).  
-- Epidemiological validations and metaanalyses supported the robustness of these findings across countries and income levels (Figure 2F-I).
-
-![GA](images/GA.png)  
-*Figure 2: Pipeline and key findings.*
 
 ## Databases
 <a name="Databases"></a>
 
 
 
-The dataset includes 161,981 participants (45.09% females, mean age=67.06, SD=9.85, age range=51–90) from population-representative aging surveys across Latin America, Europe, Asia, and Africa (Figure 1). 
+The dataset includes 161,981 participants (45.09% females, mean age=67.06, SD=9.85, age range=51–90) from population-representative aging surveys across Latin America, Europe, Asia, and Africa . 
 
 Additionally, a longitudinal subsample with two waves is included:  
 - Wave 1: n=21,631 (42.31% females, mean age=67.18, SD=11.47, range=41–114)  
