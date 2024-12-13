@@ -6,7 +6,7 @@
 - [Summary](#Summary)
 - [Databases](#Databases)
 - [Scripts descriptions](#Scriptsdescription)
-
+- [References](#Referencesection)
 
   
 
@@ -66,3 +66,12 @@ The following table provides contact information and download links for all data
 [Pendiente]
 
 
+### References
+<a name="Referencesection"></a>
+1. Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *Lancet* 2024; 404(10452): 572-628.  
+2. Tian YE, Cropley V, Maier AB, Lautenschlager NT, Breakspear M, Zalesky A. Heterogeneous aging across multiple organ systems and prediction of chronic disease and mortality. *Nature Medicine* 2023; 29(5): 1221-31.  
+3. Moguilner S, Baez S, Hernandez H, et al. Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations. *Nature Medicine* 2024.  
+4. Nowogrodzki J. What accelerates brain ageing? This AI 'brain clock' points to answers. *Nature* 2024; 633(8028): 20.  
+5. Computational brain models map diversity embedded in aging and dementia. *Nature Medicine* 2024.  
+6. Allada R, Bass J. Circadian mechanisms in medicine. *New England Journal of Medicine* 2021; 384(6): 550-61.  
+7. Van Bavel JJ, Gadarian SK, Knowles E, Ruggeri K. Political polarization and health. *Nature Medicine* 2024; 30(11): 3085-93.
