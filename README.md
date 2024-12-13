@@ -4,9 +4,8 @@
 
 # Table of Contents
 - [Summary](#Summary)
-- [Folder hierarchy](#Folderhierarchy)
 - [Databases](#Databases)
-- [General description](#Generaldescription)
+- [Scripts descriptions](#Scriptsdescription)
 
 
   
@@ -62,8 +61,8 @@ The following table provides contact information and download links for all data
 | South Africa Dataset | South Africa | cyprian.mostert@aku.edu |
 
 
-### General description:
-<a name="Generaldescription"></a>
-Each database includes subjects' age, sex, and education years. Those databases containing cognition data also provide subjects' Mini-Mental State Examination (MMSE) scores. Databases in the main_result directory encompass all subjects utilized in the study.
+### Scripts description:
+<a name="Scriptsdescription"></a>
+[Pendiente]
 
 
