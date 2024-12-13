@@ -4,6 +4,7 @@
   <img src="images/header.png" width="400" alt="Cabecera">
 </p>
 
+![](images/header.png)  
 
 # <p align="center">Structural inequality and brain dynamics across diverse samples</p>
 
