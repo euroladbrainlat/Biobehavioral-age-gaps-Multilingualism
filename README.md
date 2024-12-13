@@ -1,6 +1,6 @@
 ![](images/header.png)  
 
-# <p align="center">Biobehavioral-age-gaps</p>
+# <p align="center">Biobehavioral age gaps</p>
 
 # Table of Contents
 - [Summary](#Summary)
