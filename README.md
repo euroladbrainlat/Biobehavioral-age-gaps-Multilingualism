@@ -26,10 +26,7 @@ This repository contains the codes and databases necessary for the results of th
 
 | Dataset | Countries | Contact/source |
 |---------|-----------|----------------|
-| National surveys on health, well-being and aging (SABE surveys) | Chile 8 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/16053641/) |
-|  | Uruguay 8 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/16053641/) |
-|  | Colombia 9 | [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774577) |
-|  | Ecuador 10 | [INEC Ecuador](https://www.ecuadorencifras.gob.ec/encuesta-de-salud-bienestar-del-adulto-mayor/) |
+| National surveys on health, well-being and aging (SABE surveys) | Chile 8<br>Uruguay 8<br>Colombia 9<br>Ecuador 10 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/16053641/)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/16053641/)<br>[NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774577)<br>[INEC Ecuador](https://www.ecuadorencifras.gob.ec/encuesta-de-salud-bienestar-del-adulto-mayor/) |
 | The Brazilian Longitudinal Study of Ageing (ELSI-Brazil) (2016) | Brazil 11 | [ELSI-Brazil](https://elsi.cpqrr.fiocruz.br/) |
 | Costa Rican Study on Longevity and Healthy Aging (CRELES) | Costa Rica 12 | [CRELES](http://www.creles.berkeley.edu/index.html) |
 | Encuesta Nacional sobre Salud y Envejecimiento en México (ENASEM) | Mexico | [ENASEM](https://enasem.org/Home/index_esp.aspx) |
@@ -39,6 +36,7 @@ This repository contains the codes and databases necessary for the results of th
 | Egipt Dataset | Egipt | mohamed-salama@aucegypt.edu |
 | India Dataset | India | swati.bajpai@gbhi.org |
 | South Africa Dataset | South Africa | cyprian.mostert@aku.edu |
+
 
 ### General description:
 <a name="Generaldescription"></a>
