@@ -18,11 +18,11 @@ This repository contains the codes and databases necessary for the results of th
 *Figure 1: Distribution of countries in the study.*
 
 **Key insights:**
-- Protective factors slowed aging, while risk factors accelerated it (Figure 2B).  
+- Protective factors were associated with slower aging, while risk factors accelerated aging (Figure 2B).  
 - Africa exhibited the fastest BAG increases, followed by Latin America, Asia, and Europe, with poorer countries showing older BAGs (Figure 2C).  
 - Adverse exposomes—physical, social, and sociopolitical—were major contributors to accelerated aging (Figure 2D).  
 - Longitudinal analyses indicated that higher BAGs at baseline were predictors of future cognitive and functional declines (Figure 2E).  
-- Epidemiological validations and meta-analyses supported the robustness of these findings across countries and income levels (Figure 2F-I).
+- Epidemiological validations and metaanalyses supported the robustness of these findings across countries and income levels (Figure 2F-I).
 
 ![GA](images/GA.png)  
 *Figure 2: Pipeline and key findings.*
