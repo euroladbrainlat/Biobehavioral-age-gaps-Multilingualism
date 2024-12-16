@@ -1,0 +1,17 @@
+,Country,year,country,year_acq,GDP_percapita,Income,Group_GDP,ci_l,ci_r,rr_SE,realtive_risk,Feature,Region,unexposed,exposed,total
+0,Costa Rica,2016,Costa Rica,2016,11899.813983374785,UM,Small Economy,0.93,1.38,0.09923788266461273,1.14,Well_being_domain_w2,LatinAmerica,1626,337,1963
+1,Mexico,2018,Mexico,2018,10130.320697617231,UM,Small Economy,0.87,0.92,0.01324476435649366,0.9,Well_being_domain_w2,LatinAmerica,1459,5186,6645
+2,China,2015,China,2015,8016.445594899985,UM,Small Economy,0.94,1.51,0.1211587194695134,1.19,Well_being_domain_w2,Asia,3281,253,3534
+3,Korea,2016,Korea,2016,29280.440317004843,H,Large Economy,1.54,2.08,0.0754723621073671,1.79,Well_being_domain_w2,Asia,3943,647,4590
+4,Austria,2020,Austria,2020,48789.49784988721,H,Large Economy,0.86,1.83,0.19313777850879446,1.26,Well_being_domain_w2,WesternEurope,64,56,120
+5,Belgium,2020,Belgium,2020,45587.96830831899,H,Large Economy,0.96,1.73,0.15118534505643294,1.29,Well_being_domain_w2,WesternEurope,261,120,381
+6,Czechia,2020,Czechia,2020,22992.87938333477,H,Large Economy,1.15,2.02,0.14346989510978145,1.53,Well_being_domain_w2,EasternEurope,236,123,359
+7,Switzerland,2020,Switzerland,2020,85897.7843338323,H,Large Economy,0.99,2.01,0.18158622388692966,1.41,Well_being_domain_w2,WesternEurope,250,94,344
+8,Germany,2020,Germany,2020,46749.4762280016,H,Large Economy,1.12,2.06,0.15528760228312424,1.52,Well_being_domain_w2,WesternEurope,245,111,356
+9,Denmark,2020,Denmark,2020,60836.59241216378,H,Large Economy,1.22,2.42,0.1741660132940447,1.72,Well_being_domain_w2,NorthernEurope,334,99,433
+10,Spain,2020,Spain,2020,26984.296277027945,H,Large Economy,1.56,3.07,0.17389284527673457,2.19,Well_being_domain_w2,SouthernEurope,212,130,342
+11,France,2020,France,2020,39179.74425960567,H,Large Economy,1.38,2.21,0.12032145362923266,1.74,Well_being_domain_w2,WesternEurope,358,183,541
+12,Greece,2020,Greece,2020,17617.29150570137,H,Large Economy,1.24,2.28,0.15640957180026016,1.68,Well_being_domain_w2,SouthernEurope,516,183,699
+13,Italy,2020,Italy,2020,31922.919162618266,H,Large Economy,1.75,2.89,0.1271245976827924,2.25,Well_being_domain_w2,SouthernEurope,289,198,487
+14,Poland,2020,Poland,2020,15816.819050318963,H,Small Economy,1.23,2.3,0.1608559354613046,1.68,Well_being_domain_w2,EasternEurope,256,131,387
+15,Sweden,2020,Sweden,2020,52837.9039778149,H,Large Economy,0.89,1.69,0.16390210553636875,1.23,Well_being_domain_w2,NorthernEurope,319,131,450

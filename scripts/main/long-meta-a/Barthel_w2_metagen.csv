@@ -1,0 +1,17 @@
+,Country,year,country,year_acq,GDP_percapita,Income,Group_GDP,ci_l,ci_r,rr_SE,realtive_risk,Feature,Region,unexposed,exposed,total
+0,Costa Rica,2016,Costa Rica,2016,11899.813983374785,UM,Small Economy,1.36,2.3,0.13467760383924032,1.77,Barthel_w2,LatinAmerica,1751,212,1963
+1,Mexico,2018,Mexico,2018,10130.320697617231,UM,Small Economy,2.04,2.43,0.04375850800655766,2.23,Barthel_w2,LatinAmerica,4843,1802,6645
+2,China,2015,China,2015,8016.445594899985,UM,Small Economy,2.03,2.85,0.08658204043952991,2.4,Barthel_w2,Asia,3004,530,3534
+3,Korea,2016,Korea,2016,29280.440317004843,H,Large Economy,2.01,4.29,0.19290914630530825,2.94,Barthel_w2,Asia,4457,133,4590
+4,Austria,2020,Austria,2020,48789.49784988721,H,Large Economy,1.35,11.79,0.553548932436448,3.98,Barthel_w2,WesternEurope,105,15,120
+5,Belgium,2020,Belgium,2020,45587.96830831899,H,Large Economy,1.61,7.58,0.3951035303618036,3.49,Barthel_w2,WesternEurope,349,32,381
+6,Czechia,2020,Czechia,2020,22992.87938333477,H,Large Economy,2.77,16.3,0.451770559748488,6.72,Barthel_w2,EasternEurope,333,26,359
+7,Switzerland,2020,Switzerland,2020,85897.7843338323,H,Large Economy,2.0,10.86,0.43216380371271973,4.66,Barthel_w2,WesternEurope,323,21,344
+8,Germany,2020,Germany,2020,46749.4762280016,H,Large Economy,1.92,8.93,0.39227453440776344,4.14,Barthel_w2,WesternEurope,329,27,356
+9,Denmark,2020,Denmark,2020,60836.59241216378,H,Large Economy,2.15,19.12,0.5579616430765869,6.41,Barthel_w2,NorthernEurope,415,18,433
+10,Spain,2020,Spain,2020,26984.296277027945,H,Large Economy,2.8,16.73,0.4559382052661295,6.85,Barthel_w2,SouthernEurope,287,55,342
+11,France,2020,France,2020,39179.74425960567,H,Large Economy,1.05,4.9,0.39354941259417753,2.26,Barthel_w2,WesternEurope,515,26,541
+12,Greece,2020,Greece,2020,17617.29150570137,H,Large Economy,1.35,8.58,0.4722012245489618,3.4,Barthel_w2,SouthernEurope,660,39,699
+13,Italy,2020,Italy,2020,31922.919162618266,H,Large Economy,3.3,25.05,0.5171242138247207,9.09,Barthel_w2,SouthernEurope,444,43,487
+14,Poland,2020,Poland,2020,15816.819050318963,H,Small Economy,2.4,18.12,0.516130863388096,6.59,Barthel_w2,EasternEurope,346,41,387
+15,Sweden,2020,Sweden,2020,52837.9039778149,H,Large Economy,2.96,19.44,0.48034633415130873,7.58,Barthel_w2,NorthernEurope,431,19,450
