@@ -51,7 +51,8 @@ The following table provides contact information and download links for all data
 
 ### Scripts description:
 <a name="Scriptsdescription"></a>
-The `script` folder contains the necessary code to obtain the results of this work. It is divided into two main directories: `main` and `supp`. Each directory includes the scripts and the data folder needed to reproduce the results. The scripts `main_BAGs_computation.ipny` and `main_BAGs_computation.ipny` require a prior request to access the data that is not publicly available (see the table for more information).
+The `script` folder contains the necessary code to obtain the results of this work. It is divided into two main directories: `main` and `supp`. Each directory includes the scripts and the data folder needed to reproduce the results. The `main_BAGs_computation.ipny` and `supp_BAGs_computation.ipny` scripts are used to obtain the processed data used for the results, but we have provided all this processed data on the platform.
+
 
 
 ### References
