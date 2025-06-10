@@ -27,10 +27,10 @@ The dataset includes 86,149 participants (45.31% females, mean age = 66.55, SD =
 The following table provides contact information and download links for the databases used in this study.
 
 
-| Dataset | Countries | Contact/source |
-|---------|-----------|----------------|
+| Dataset                                                             | Countries                                                                                                                                                                                                                                             | Contact/source                         |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| Survey of Health, Ageing and Retirement in Europe (SHARE)          | Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, Switzerland | [SHARE](https://www.share-eric.eu/)   |
 
-| Survey of Health, Ageing and Retirement in Europe (SHARE) | Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, Switzerland  | [SHARE](https://www.share-eric.eu/) |
 
 ### Scripts description:
 <a name="Scriptsdescription"></a>
