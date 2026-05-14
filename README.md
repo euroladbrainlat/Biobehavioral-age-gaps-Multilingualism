@@ -12,8 +12,7 @@
 
 ## Summary
 <a name="Summary"></a>
-This repository contains the codes necessary for the results of the study: "Biobehavioral age gaps, global disparities, and exposomes in accelerated aging: a cross-sectional and longitudinal analysis across 40 countries". Our research bridges critical gaps by analyzing a cohort of 161,981 participants from Latin America, Europe, Asia, and Africa. Using a novel computational approach to aging clocks, we developed a scalable and cost-efficient tool to estimate BAGs. This tool integrates protective factors (e.g., cognitive health, physical activity, education) with risk factors (e.g., cardiometabolic issues, sensory impairments, female sex). We explored BAGs in cross-sectional and longitudinal contexts, evaluating their variations by region, income level, and exposomes, including physical (e.g., air quality), social (e.g., inequality), and sociopolitical factors (e.g., democracy, political representation). Validation included epidemiological metrics such as odds ratios, relative risk, and meta-analyses.
-
+This repository contains the codes necessary for the results of the study: "Multilingualism protects against accelerated aging: A cross-sectional and longitudinal analysis in 27 European countries". 
 
 ## Databases
 <a name="Databases"></a>
@@ -34,8 +33,7 @@ The following table provides contact information and download links for the data
 
 ### Scripts description:
 <a name="Scriptsdescription"></a>
-The `script` folder contains the necessary code to obtain the results of this work. It is divided into two main directories: `main` and `supp`. Each directory includes the scripts and the data folder needed to reproduce the results. The `main_BAGs_computation.ipny` script is used to obtain the processed data used for the results, but we have provided all this processed data on the platform.
-
+The `script` folder contains the necessary code to obtain the results of this work. 
 
 
 ### References
