@@ -19,7 +19,7 @@ This repository contains the codes necessary for the results of the study: "Mult
 
 
 
-The dataset includes 86,149 participants (45.31% females, mean age = 66.55, SD = 9.91, age range = 51–90) from population-representative aging surveys across European countries.
+The dataset includes 86,149 participants from population-representative aging surveys across European countries.
 
  
 
@@ -33,7 +33,7 @@ The following table provides contact information and download links for the data
 
 ### Scripts description:
 <a name="Scriptsdescription"></a>
-The `script` folder contains the necessary code to obtain the results of this work. 
+The `script` folder contains the necessary code to obtain the results of this work. Before running the scripts, please run the `Files-creator.ipynb` script to create the folders required to execute the scripts.
 
 
 ### References
